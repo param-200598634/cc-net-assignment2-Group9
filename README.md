@@ -1,42 +1,27 @@
-C# Assignment 2 – Group Project
-Group Members
+# C# Assignment 2 – Group Project
 
-Paramvir Singh
+## Group Members
+- Paramvir Singh
+- Jovan Singh
+- Ramandeep Singh Brar
 
-Jovan Singh
+## Project Description
+This is a Visual Studio C# Console Application containing four custom methods:
+1. PrintFullName()
+2. CelsiusToFahrenheit()
+3. FahrenheitToCelsius()
+4. CalculateCircleArea()  // group-chosen method
 
-Ramandeep Singh Brar
+All methods are created and called inside the Main() method.
 
-Project Overview
+## How to Run
+1. Open the project in Visual Studio 2022
+2. Open Program.cs
+3. Press Ctrl + F5 to run the application
 
-This assignment is a Visual Studio C# Console Application that includes four custom methods:
-
-PrintFullName() – Prints full name using two string parameters
-
-CelsiusToFahrenheit() – Converts Celsius to Fahrenheit
-
-FahrenheitToCelsius() – Converts Fahrenheit to Celsius
-
-CalculateCircleArea() – A custom method chosen by the group
-
-All methods are called inside the Main() method.
-
-Requirements Completed
-
-Created a C# project named Csharp-Assignment2-Group#
-
-Wrote all four required methods
-
-Ran the program in Visual Studio
-
-Captured screenshots of project structure and console output
-
-How to Run
-
-Open the project in Visual Studio 2022
-
-Open Program.cs
-
-Click Start or press Ctrl + F5
-
-The console will show all method outputs
+## Submission Includes
+- GitHub repository link
+- PDF file with screenshots of:
+  - Project folder structure
+  - Complete Program.cs code
+  - Console output
